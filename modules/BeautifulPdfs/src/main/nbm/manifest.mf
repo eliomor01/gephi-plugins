@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+OpenIDE-Module-Name: Beautiful PDFs
+OpenIDE-Module-Short-Description: Plugin to export in PDF format at a chosen DPI
+OpenIDE-Module-Long-Description: Plugin to export in PDF format at a chosen DPI
+OpenIDE-Module-Display-Category: Export
